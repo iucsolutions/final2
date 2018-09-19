@@ -7,8 +7,8 @@
    use_message_filter="false">
    <to_mapper
       guid="final2_Channel4-To-xj5Reiw6lfjbU1"
-      commit_id="0deb5b8e51c10a484b108aedf31ec970d70dc6b0"
-      commit_comment="new">
+      commit_id="9c256566d281d58be2d33aec38906766601d637d"
+      commit_comment="changed config file">
       <dequeue_list>
          <dequeue
             source_name="final2_Channel1"
