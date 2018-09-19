@@ -12,7 +12,7 @@
       guid="final2_WebAPI-FromHTTP-MAnJS0lU2qZPTR"
       commit_id="0bf66e4e6777035933acf970d0f813c47e0f639d"
       commit_comment="Import Translators: final 2 import"
-      mapper_url_path="iucwebdevGROUPNAME"/>
+      mapper_url_path="iucwebdevfinal2"/>
    <message_filter
       filter_after_logging="false"
       log_pre_post_filter_message="true"
